@@ -27,8 +27,8 @@
 ### Strategy Performance
 | Strategy | Trades | Total P&L |
 |----------|--------|-----------|
-| ORB      | 836    | $562.78   |
-| VWAP     | 274    | $2,064.28 |
+| Strategy1      | 836    | $562.78   |
+| Strategy2     | 274    | $2,064.28 |
 
 ### Symbol Performance
 | Symbol | Trades | Total P&L |

@@ -1,5 +1,9 @@
 # U.S. Equity Index — Intraday Breakout/Reversion (Public Artifacts)
 
+## Equity Curve
+
+![Portfolio Equity Curve](assets/images/equity_curve_portfolio_20250816_171726.png)
+
 **Public artifacts only** (images & CSV summaries). No source code; NDA required for code review.
 
 ## At-a-Glance Performance
@@ -17,9 +21,6 @@
 - **Start Equity**: $9,957.86
 - **End Equity**: $11,664.11
 
-## Equity Curve
-
-![Portfolio Equity Curve](assets/images/equity_curve_portfolio_20250816_171726.png)
 
 ## Performance Tables
 

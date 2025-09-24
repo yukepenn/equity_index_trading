@@ -19,7 +19,7 @@
 
 ## Equity Curve
 
-![Portfolio Equity Curve](display/equity_curve_portfolio_20250816_171726.png)
+![Portfolio Equity Curve](assets/images/equity_curve_portfolio_20250816_171726.png)
 
 ## Performance Tables
 
@@ -64,40 +64,40 @@
 | 2025-08-14 | XLK | short | 89 | 16:14 | 18:18 | $6.90 | 0.28 |
 | 2025-08-14 | XLF | long | 156 | 18:18 | 18:18 | $0.00 | 0.00 |
 
-*Full trade ledger available in CSV under display/.*
+*Full trade ledger available in CSV under assets/metrics/.*
 
 ## Files
 
 ### Key Artifacts
-- `equity_curve_portfolio_20250816_171726.png` - Portfolio equity curve visualization
-- `equity_compounded_20250816_171726.csv` - Time series of portfolio equity values
-- `trades_20250816_171726.csv` - Complete trade ledger (1,110 trades)
-- `summary_20250816_171726.txt` - Basic performance metrics
-- `summary_compounded_20250816_171726.txt` - Compounded performance metrics
+- `assets/images/equity_curve_portfolio_20250816_171726.png` - Portfolio equity curve visualization
+- `assets/metrics/equity_compounded_20250816_171726.csv` - Time series of portfolio equity values
+- `assets/metrics/trades_20250816_171726.csv` - Complete trade ledger (1,110 trades)
+- `assets/metrics/summary_20250816_171726.txt` - Basic performance metrics
+- `assets/metrics/summary_compounded_20250816_171726.txt` - Compounded performance metrics
 
 ### Performance Reports
-- `report_by_strategy_20250816_171726.csv` - Strategy-level performance breakdown
-- `report_by_symbol_20250816_171726.csv` - Symbol-level performance breakdown
-- `report_by_hour_20250816_171726.csv` - Hourly trading performance analysis
+- `assets/metrics/report_by_strategy_20250816_171726.csv` - Strategy-level performance breakdown
+- `assets/metrics/report_by_symbol_20250816_171726.csv` - Symbol-level performance breakdown
+- `assets/metrics/report_by_hour_20250816_171726.csv` - Hourly trading performance analysis
 
 ## Folder Preview
 
 ```
 .
-├─ display/
-│  ├─ equity_curve_portfolio_20250816_171726.png
-│  ├─ equity_compounded_20250816_171726.csv
-│  ├─ trades_20250816_171726.csv
-│  ├─ summary_20250816_171726.txt
-│  ├─ summary_compounded_20250816_171726.txt
-│  ├─ report_by_strategy_20250816_171726.csv
-│  ├─ report_by_symbol_20250816_171726.csv
-│  └─ report_by_hour_20250816_171726.csv
 ├─ assets/
 │  ├─ images/
+│  │  └─ equity_curve_portfolio_20250816_171726.png
 │  └─ metrics/
-├─ artifacts/
-└─ structure/
+│     ├─ equity_compounded_20250816_171726.csv
+│     ├─ trades_20250816_171726.csv
+│     ├─ summary_20250816_171726.txt
+│     ├─ summary_compounded_20250816_171726.txt
+│     ├─ report_by_strategy_20250816_171726.csv
+│     ├─ report_by_symbol_20250816_171726.csv
+│     └─ report_by_hour_20250816_171726.csv
+├─ .gitattributes
+├─ .gitignore
+└─ README.md
 ```
 
 ## Contact
